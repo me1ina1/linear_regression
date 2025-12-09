@@ -18,8 +18,7 @@ Two data sources are used:
 ### 3. Visualizations
 
 #### Graph 1: Error Surface
-![Error Surface](screenshot1_error_landscape.png)
-<img width="614" height="418" alt="image" src="https://github.com/user-attachments/assets/05452cfa-d3c4-40b6-8211-b9ce10917022" />
+<img width="614" height="418" alt="image" src="https://github.com/user-attachments/assets/05452cfa-d3c4-40b6-8211-b9ce10917022" style="margin-left: 0; display: block;"/>
 
 
 
@@ -31,8 +30,7 @@ This visualization shows:
 **Interpretation**: The smooth, convex shape guarantees that gradient descent converges to the global minimum.
 
 #### Graph 2: Gradient Descent Result
-![Gradient Descent Result](screenshot2_fitted_line.png)
-<img width="608" height="412" alt="image" src="https://github.com/user-attachments/assets/d42346a9-8d03-4c53-af18-4b8b24014ea2" />
+<img width="608" height="412" alt="image" src="https://github.com/user-attachments/assets/d42346a9-8d03-4c53-af18-4b8b24014ea2" style="margin-left: 0; display: block;"/>
 
 
 This visualization shows:
@@ -102,7 +100,3 @@ math (standard library)
 2. **Scalability**: The method works for both synthetic and real data
 3. **Visualization**: Error reduction is clearly visible and quantifiable
 
-## Contact
-[Your Name]  
-Application for Bachelor's Thesis with Prof. Dr. Annabelle Bohrdt  
-[Date]
